@@ -19,8 +19,7 @@ This project dives into **YouTube trending videos across five countries** — an
 
 ---
 
-<details>
-  <summary><strong>📁 Dataset Description</strong> (click to expand)</summary>
+<de
 
   ## 🔧 Tools & Tech Used
 
