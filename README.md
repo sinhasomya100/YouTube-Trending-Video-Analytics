@@ -12,7 +12,9 @@ This project dives into **YouTube trending videos across five countries** — an
 ➡️ Final output: An **interactive Power BI dashboard** + a full **data analysis report** powered by Python.
 ## 🖼️ Dashboard Preview
 
-> 📌 Full dashboard with filters, charts, and insight![Uploading image.png…]()
+> 📌 Full dashboard with filters, charts, and insight!
+> ![image](https://github.com/user-attachments/assets/4fe6e61f-f135-45a6-9f0b-845a7423d4af)
+
 
 
 ---
@@ -93,10 +95,6 @@ Included:
 ✅ **Canada** and **Great Britain** had the highest average views per video  
 ✅ Peak engagement is usually in the **evening hours**, mid-week  
 
----
-
-
-![Dashboard Preview](https://your_dashboard_image_url_or_placeholder.png)
 
 ---
 
